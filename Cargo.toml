@@ -5,3 +5,5 @@ authors = ["Geordon Worley <vadixidav@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+toml = "0.4.10"
+cargo = "0.33.0"
